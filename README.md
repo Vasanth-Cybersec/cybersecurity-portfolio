@@ -8,7 +8,7 @@ My goal is to simulate real-world attack scenarios and practice detecting, analy
 
 # Current Project
 
-## AWS SOC Lab (Work in Progress)
+## [AWS SOC Lab](https://github.com/Vasanth-Cybersec/AWS-SOC-Lab.git) (Work in Progress)
 
 I am currently building a Security Operations Center (SOC) lab environment in AWS to simulate attacker activity and practice threat detection.
 
