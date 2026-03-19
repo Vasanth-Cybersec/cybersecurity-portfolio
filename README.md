@@ -89,20 +89,21 @@ Tools:
 
 ---
 
-### Attack Simulation & Detection Lab
+### Security Automation/SOAR Lab
 
-Simulating attacker techniques using my SOC lab environment to understand:
+Simulating real-world Security Operations Center (SOC) workflows by developing automated detection and response mechanisms using SIEM alerts and Python scripting
 
-* Suspicious authentication activity
-* Unauthorized service creation
-* Privilege escalation behavior
-* IOCs in system logs
+* Automate incident detection and response processes
+* Reduce manual analysis by triggering scripted actions
+* Simulate real-world SOC workflows using alert-driven automation
+* Improve response time to security events
 
 Tools:
 
 * Windows Event Viewer
 * Sysmon
-* Ubuntu
+* Splunk
+* Python
 ---
 
 # Skills Demonstrated
